@@ -1,13 +1,15 @@
 # utool-shell
 epic shell made in python
-make-in progress
+
+
+Has commands, useful for new pc users.
 
 
 
-BETA USERS: click on the releases tab and select the beta you want to use
+Works on linux and windows, some commands windows only.
 
 
 
-i will make it a exe when release
+Made by Tarvey, aka quaqak
 
 
