@@ -1,5 +1,0 @@
-Requirements:
-Windows:
-Python 3.7+
-Linux:
-Python 3.7+ (package "python3")
