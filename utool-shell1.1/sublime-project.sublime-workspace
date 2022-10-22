@@ -1,0 +1,468 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 4126,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAMoPAAAAAAAAyw8AAAAAAAAAAAAAyw8AAAAAAADXDwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyg8AAAAAAADKDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					2,
+					"left_delete",
+					null,
+					"AgAAANMPAAAAAAAA0w8AAAAAAAAEAAAAICAgIM8PAAAAAAAAzw8AAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAA1w8AAAAAAADXDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AgAAAM8PAAAAAAAA0A8AAAAAAAAAAAAA0A8AAAAAAADRDwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzw8AAAAAAADPDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " input"
+					},
+					"BgAAANEPAAAAAAAA0g8AAAAAAAAAAAAA0g8AAAAAAADTDwAAAAAAAAAAAADTDwAAAAAAANQPAAAAAAAAAAAAANQPAAAAAAAA1Q8AAAAAAAAAAAAA1Q8AAAAAAADWDwAAAAAAAAAAAADWDwAAAAAAANcPAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0Q8AAAAAAADRDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert_completion",
+					{
+						"completion": "inputthing",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "inputthing"
+					},
+					"AgAAANIPAAAAAAAA0g8AAAAAAAAFAAAAaW5wdXTSDwAAAAAAANwPAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1w8AAAAAAADXDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " =="
+					},
+					"AwAAANwPAAAAAAAA3Q8AAAAAAAAAAAAA3Q8AAAAAAADeDwAAAAAAAAAAAADeDwAAAAAAAN8PAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3A8AAAAAAADcDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAN8PAAAAAAAA4A8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3w8AAAAAAADfDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAOAPAAAAAAAA4g8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4A8AAAAAAADgDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "relaunch"
+					},
+					"CAAAAOEPAAAAAAAA4g8AAAAAAAAAAAAA4g8AAAAAAADjDwAAAAAAAAAAAADjDwAAAAAAAOQPAAAAAAAAAAAAAOQPAAAAAAAA5Q8AAAAAAAAAAAAA5Q8AAAAAAADmDwAAAAAAAAAAAADmDwAAAAAAAOcPAAAAAAAAAAAAAOcPAAAAAAAA6A8AAAAAAAAAAAAA6A8AAAAAAADpDwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4Q8AAAAAAADhDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAOoPAAAAAAAA6w8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6g8AAAAAAADqDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAOsPAAAAAAAA7A8AAAAAAAAAAAAA7A8AAAAAAADwDwAAAAAAAAAAAADwDwAAAAAAAPQPAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6w8AAAAAAADrDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "python"
+					},
+					"BgAAAPQPAAAAAAAA9Q8AAAAAAAAAAAAA9Q8AAAAAAAD2DwAAAAAAAAAAAAD2DwAAAAAAAPcPAAAAAAAAAAAAAPcPAAAAAAAA+A8AAAAAAAAAAAAA+A8AAAAAAAD5DwAAAAAAAAAAAAD5DwAAAAAAAPoPAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9A8AAAAAAAD0DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					6,
+					"left_delete",
+					null,
+					"BgAAAPkPAAAAAAAA+Q8AAAAAAAABAAAAbvgPAAAAAAAA+A8AAAAAAAABAAAAb/cPAAAAAAAA9w8AAAAAAAABAAAAaPYPAAAAAAAA9g8AAAAAAAABAAAAdPUPAAAAAAAA9Q8AAAAAAAABAAAAefQPAAAAAAAA9A8AAAAAAAABAAAAcA",
+					"AQAAAAAAAAABAAAA+g8AAAAAAAD6DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "os.system"
+					},
+					"CQAAAPQPAAAAAAAA9Q8AAAAAAAAAAAAA9Q8AAAAAAAD2DwAAAAAAAAAAAAD2DwAAAAAAAPcPAAAAAAAAAAAAAPcPAAAAAAAA+A8AAAAAAAAAAAAA+A8AAAAAAAD5DwAAAAAAAAAAAAD5DwAAAAAAAPoPAAAAAAAAAAAAAPoPAAAAAAAA+w8AAAAAAAAAAAAA+w8AAAAAAAD8DwAAAAAAAAAAAAD8DwAAAAAAAP0PAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9A8AAAAAAAD0DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": " py"
+					},
+					"AwAAAP0PAAAAAAAA/g8AAAAAAAAAAAAA/g8AAAAAAAD/DwAAAAAAAAAAAAD/DwAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/Q8AAAAAAAD9DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAAAAQAAAAAAAAARAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					4,
+					"left_delete",
+					null,
+					"BAAAAAAQAAAAAAAAABAAAAAAAAABAAAAdP8PAAAAAAAA/w8AAAAAAAABAAAAef4PAAAAAAAA/g8AAAAAAAABAAAAcP0PAAAAAAAA/Q8AAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAP0PAAAAAAAA/w8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/Q8AAAAAAAD9DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAP4PAAAAAAAAABAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/g8AAAAAAAD+DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "python"
+					},
+					"BgAAAP8PAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAUQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/w8AAAAAAAD/DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": " main.py"
+					},
+					"CAAAAAUQAAAAAAAABhAAAAAAAAAAAAAABhAAAAAAAAAHEAAAAAAAAAAAAAAHEAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACRAAAAAAAAAAAAAACRAAAAAAAAAKEAAAAAAAAAAAAAAKEAAAAAAAAAsQAAAAAAAAAAAAAAsQAAAAAAAADBAAAAAAAAAAAAAADBAAAAAAAAANEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABRAAAAAAAAAFEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					2,
+					"left_delete",
+					null,
+					"AgAAAOIPAAAAAAAA4g8AAAAAAAABAAAAZeEPAAAAAAAA4Q8AAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAA4w8AAAAAAADjDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "re"
+					},
+					"AgAAAOEPAAAAAAAA4g8AAAAAAAAAAAAA4g8AAAAAAADjDwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4Q8AAAAAAADhDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "\nbreak"
+					},
+					"BwAAAA8QAAAAAAAAEBAAAAAAAAAAAAAAEBAAAAAAAAAYEAAAAAAAAAAAAAAYEAAAAAAAABkQAAAAAAAAAAAAABkQAAAAAAAAGhAAAAAAAAAAAAAAGhAAAAAAAAAbEAAAAAAAAAAAAAAbEAAAAAAAABwQAAAAAAAAAAAAABwQAAAAAAAAHRAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADxAAAAAAAAAPEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					8,
+					"left_delete",
+					null,
+					"CAAAABwQAAAAAAAAHBAAAAAAAAABAAAAaxsQAAAAAAAAGxAAAAAAAAABAAAAYRoQAAAAAAAAGhAAAAAAAAABAAAAZRkQAAAAAAAAGRAAAAAAAAABAAAAchgQAAAAAAAAGBAAAAAAAAABAAAAYhQQAAAAAAAAFBAAAAAAAAAEAAAAICAgIBAQAAAAAAAAEBAAAAAAAAAEAAAAICAgIA8QAAAAAAAADxAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAHRAAAAAAAAAdEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "\nbreak"
+					},
+					"CAAAAOsPAAAAAAAA7A8AAAAAAAAAAAAA7A8AAAAAAADwDwAAAAAAAAAAAADwDwAAAAAAAPQPAAAAAAAAAAAAAPQPAAAAAAAA9Q8AAAAAAAAAAAAA9Q8AAAAAAAD2DwAAAAAAAAAAAAD2DwAAAAAAAPcPAAAAAAAAAAAAAPcPAAAAAAAA+A8AAAAAAAAAAAAA+A8AAAAAAAD5DwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6w8AAAAAAADrDwAAAAAAAAAAAAAAsHtA"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/admin/Documents/utool-shell"
+	],
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "sublime-project.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
