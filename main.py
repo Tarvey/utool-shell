@@ -233,7 +233,7 @@ while 1:
             print("Error found. Here is your error number:")
             errnumfi = "1rr0-" + errnumcon
             print(errnumfi)
-            os.system("echo Error found at debug-" + "% s" % debugfailure + " (nl)Cache is being saved, for more info, heres your error number: " + errnumfi + " > error.utool-error")
+            os.system("echo Error found at debug-" + "% s" % debugfailure + " (nl)Cache is being saved, for more info, heres your error number: delfile-" + errnumfi + " > error.utool-error")
 
         else:
             dffilename = input("Input the file with the extension:\n")
@@ -264,7 +264,7 @@ while 1:
             print("Error found. Here is your error number:")
             errnumfi = "155-" + errnumcon
             print(errnumfi)
-            os.system("echo Error found at debug-" + "% s" % debugfailure + " (nl)Cache is being saved, for more info, heres your error number: " + errnumfi + " > error.utool-error")
+            os.system("echo Error found at debug-" + "% s" % debugfailure + " (nl)Cache is being saved, for more info, heres your error number: setval-" + errnumfi + " > error.utool-error")
     if inputthing == "readvalue":
         try:
             print(value)
